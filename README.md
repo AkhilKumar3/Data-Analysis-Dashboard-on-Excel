@@ -25,5 +25,6 @@ Vrinda Store wants to create an annual sales report for 2022. So that the owner 
 - Merge all pivot tables into one Dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-- <img href="https://github.com/AkhilKumar3/Data-Analysis-Dashboard-on-Excel/blob/main/Screenshot%20(103).png"/>
-  
+This is how our Dashboard will look.
+ - ![Screenshot (103)](https://github.com/user-attachments/assets/30b101ca-f3fa-4a07-98f5-817cc0b14e90)
+
